@@ -3,6 +3,7 @@ Contains my small ARM assembly scripts.
 
 ## Descriptions
 
-### [[01-times.s]]
+### [times](01-times.s)
 
-prints out times tables
+prints out 4 times tables to SWI 
+
