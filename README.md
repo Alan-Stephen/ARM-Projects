@@ -1,5 +1,8 @@
 # ARM-Projects
-Contains my small ARM assembly scripts.
+Contains my small ARM assembly scripts built using ARMv7-A.
+
+## Usage
+- compile on any ARMv7-A assembler and run
 
 ## Descriptions
 
@@ -14,3 +17,6 @@ Contains my small ARM assembly scripts.
 
 #### [breaker](breaker.s)
 - input processer, limits lines to length **width** breaks at spaces and new lines.
+
+#### [fourbuzz](fourbuzz.s)
+- implements the fourbuzz algorithm printing to SWI 4
