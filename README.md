@@ -12,4 +12,5 @@ Contains my small ARM assembly scripts.
 #### [printf](printf.s)
 - limited copy of the printf function from stdio able to handle chars, strings and ints. 
 
-
+#### [breaker](breaker.s)
+- input processer, limits lines to length **width** breaks at spaces and new lines.
