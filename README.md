@@ -3,7 +3,11 @@ Contains my small ARM assembly scripts.
 
 ## Descriptions
 
-### [times](01-times.s)
+#### [times](01-times.s)
+prints out **table** times tables to SWI 4
 
-prints out 4 times tables to SWI 
+#### [meadows](02-meadows.s)
+prints the meadow nursey rhyme to SWI 4, using **verses** constant.
+
+
 
